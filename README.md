@@ -4,9 +4,7 @@ Starting repository for RU Big Data assignments A3 parts A and B.
 
 ## Blog post
 
-+ [assignment 3 blogpost](PLACEHOLDER).
-
-Remember to update this README file with a link to the published blog post when you are done!
++ [assignment 3 blogpost](https://rubigdata.github.io/bigdata-blog-2021-daniel-burghardt/blogpost3.html).
 
 ## The assignment
 
